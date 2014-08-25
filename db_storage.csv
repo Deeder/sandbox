@@ -1,16 +1,16 @@
-Id;Support;CreationDate;EndDate;StorageType;Format;DataType;ImagePath;KbPrice
-0;Punched card;1728;;;;Any;;
-1;Floppy disk;1967;;;8 inch;Any;;
-2;Floppy disk;1981;;;5 inch 1/4;Any;;
-3;Floppy disk;1984;;;3 inch 1/2;Any;;
-4;CD;;;Disk;;;;
-5;USB key;;;;;;;
-6;DVD;;;Disk;;;;
-7;Bluray;;;Disk;;;;
-8;VHS;1956;;;;Video;;
-9;Compact Cassette;;;;;Audio;;
-10;SDCard;;;Flash;;;;
-11;MicroSD;;;Flash;;;;
-12;CF Card;;;Flash;;;;
-13;SSD;;;Flash;;;;
-14;Cloud;;;Online;;;;
+Id,Support,CreationDate,EndDate,StorageType,Format,DataType,ImagePath,KbPrice
+0,Punched card,1728,,,,Any,,
+1,Floppy disk,1967,,,8 inch,Any,,
+2,Floppy disk,1981,,,5 inch 1/4,Any,,
+3,Floppy disk,1984,,,3 inch 1/2,Any,,
+4,CD,,,Disk,,,,
+5,USB key,,,,,,,
+6,DVD,,,Disk,,,,
+7,Bluray,,,Disk,,,,
+8,VHS,1956,,,,Video,,
+9,Compact Cassette,,,,,Audio,,
+10,SDCard,,,Flash,,,,
+11,MicroSD,,,Flash,,,,
+12,CF Card,,,Flash,,,,
+13,SSD,,,Flash,,,,
+14,Cloud,,,Online,,,,
