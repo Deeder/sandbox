@@ -1,4 +1,4 @@
-Id,Support,CreationDate,EndDate,StorageType,Format,DataType,ImagePath,KbPrice,Capacity
+Id,Device,CreationDate,EndDate,StorageType,Format,DataType,ImagePath,KbPrice,Capacity
 0,Punched card,1728,,,,Any,,,
 1,Floppy disk,1967,,,8 inch,Any,,,
 2,Floppy disk,1981,,,5 inch 1/4,Any,,,
