@@ -1,16 +1,18 @@
-Id,Support,CreationDate,EndDate,StorageType,Format,DataType,ImagePath,KbPrice
-0,Punched card,1728,,,,Any,,
-1,Floppy disk,1967,,,8 inch,Any,,
-2,Floppy disk,1981,,,5 inch 1/4,Any,,
-3,Floppy disk,1984,,,3 inch 1/2,Any,,
-4,CD,,,Disk,,,,
-5,USB key,,,,,,,
-6,DVD,,,Disk,,,,
-7,Bluray,,,Disk,,,,
-8,VHS,1956,,,,Video,,
-9,Compact Cassette,,,,,Audio,,
-10,SDCard,,,Flash,,,,
-11,MicroSD,,,Flash,,,,
-12,CF Card,,,Flash,,,,
-13,SSD,,,Flash,,,,
-14,Cloud,,,Online,,,,
+Id,Support,CreationDate,EndDate,StorageType,Format,DataType,ImagePath,KbPrice,Capacity
+0,Punched card,1728,,,,Any,,,
+1,Floppy disk,1967,,,8 inch,Any,,,
+2,Floppy disk,1981,,,5 inch 1/4,Any,,,
+3,Floppy disk,1984,,,3 inch 1/2,Any,,,
+4,CD,1982,,Disk,,,http://en.wikipedia.org/wiki/File:Compact_disc.svg,,700MB
+5,USB Flash drive,2000,,,,,http://en.wikipedia.org/wiki/File:SanDisk_Cruzer_Micro.png,,
+6,DVD,1997,,Disk,,,,,8.5GB
+7,Blu-ray,2006,,Disk,,,,,25-128GB
+8,VHS,1956,2000,,,Video,,,
+9,Compact Cassette,1962,,,,Audio,,,
+10,miniSD,2003,,Flash,,,,,
+11,SD card,1999,,Flash,,,,,
+12,MicroSD,2005,,Flash,,,,,
+13,CF card,1994,,Flash,,,,,2MB-256GB
+14,SSD,1983,,Flash,,,,,
+15,Cloud,2006,,Online,,,,,
+16,HD DVD,2008,,Disk,,,,,15-30GB
