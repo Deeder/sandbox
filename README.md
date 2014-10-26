@@ -1,3 +1,9 @@
+Crawler
+=======
+## crawler.py
+
+This file is a simple crawler using requests and pattern python packages to build a NetworkX directed graph. It follows all the links corresponding to a given pattern and adds a node for every new page that has been discovered.
+
 Sandbox
 =======
 ##Files
@@ -17,4 +23,4 @@ Field description:
 * *DataType:*	If it has only be used for some kind of datatype, this one has to be precised here (may disappear in a future update as it may not be as relevant as I thought first)
 * *ImagePath:* Path to free illustration (accepted licences to be determined)
 * *KbPrice:* Price per kb of data in *CreationDate*
-* *Capacity:* May be an float followed by the uppercase units (xMB) or a range (*xKB-yGB*) if it has evolved during the lifespan of the product. 
+* *Capacity:* May be an float followed by the uppercase units (xMB) or a range (*xKB-yGB*) if it has evolved during the lifespan of the product.
