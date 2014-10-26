@@ -1,12 +1,11 @@
-Crawler
-=======
-## crawler.py
-
-This file is a simple crawler using requests and pattern python packages to build a NetworkX directed graph. It follows all the links corresponding to a given pattern and adds a node for every new page that has been discovered.
-
 Sandbox
 =======
 ##Files
+###crawler.py
+
+This file is a simple crawler using requests and pattern python packages to build a NetworkX directed graph. It follows all the links corresponding to a given pattern and adds a node for every new page that has been discovered.
+
+
 ###db_storage.csv
 
 > In progress. Feel free to help by completing this file or by adding some modifications to the database.
